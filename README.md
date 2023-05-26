@@ -1,2 +1,2 @@
 # project_letterboxd
-Movie Data Collection and Analysis
+Jupyter Notebooks for Movie Data Collection and Analysis
